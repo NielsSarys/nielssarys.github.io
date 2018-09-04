@@ -43,5 +43,3 @@ fields:
   type: text
   hidden: false
   default: ''
-pages:
-- _posts/2018-09-04-test.md
