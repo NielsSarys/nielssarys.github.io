@@ -27,7 +27,7 @@ Anastasia a élu domicile à la _Mouette Chantante_, une auberge remplie de mari
 
 ## **Job délicat à Keshira**
 
-![](/src/map_keshira.png)
+<p><img class="img-fluid" src="src/map_keshira.png" alt="Carte de Keshira" /></p>
 
 Nous retrouvons nos joueurs dans le bureau de Serkan. Il leur soumet une ultime requête, en échange de laquelle il leur fournira un laisser-passer pour naviguer à bord de sa flotte commerciale jusqu'à _Port-Azur_. Le notable veut qu’ils en apprennent plus sur **Raham**, un marchand qui lui fait de l’ombre et vise sa place de chef de la guilde. Récemment, il s'est mystérieusement enrichi grâce à une “opportunité”. Nos héros décident d’abord de passer par l'atelier d’Islem, le mentor d’Accacius. Le vieillard revient de l’ambassade, une pile de lourds ouvrages dans les bras et explique à son apprenti qu’il revient d’une réunion avec l’ambassadeur. Il lui a longuement parlé du cimeterre sacré, récupéré par Accacius dans le désert lors de leur fuite (voir épisode précédent). S’en suit une altercation entre Lion et Islem. Lion n’aime pas Islem car celui-ci s’intéresse d’un peu trop près au cimeterre sacré. Accacius en profite pour tirer quelques informations à Islem au sujet de Raham. Le vieillard le connait bien. C’est un expert pour trouver des artefacts et reliques en tout genre. Il est souvent _Chez Talek_, une taverne au sud du quartier marchand.
 
