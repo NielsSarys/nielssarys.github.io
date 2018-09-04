@@ -4,7 +4,7 @@ desc: true
 permalink: "/:title"
 date: 2018-09-04 00:00:00 +0000
 layout: post
-image: "/src/dw-dm-1-.jpg"
+image: https://img00.deviantart.net/1540/i/2016/250/7/2/medieval_arabic_city_by_hetman80-dagueke.jpg
 keywords: dungeon world, jdr, compte-rendu, jeu de rôle
 tags:
 - cr
