@@ -62,3 +62,5 @@ Le lendemain, le manuscrit original toujours en possession, ils se dirigent vers
 Après avoir découvert le passage secret caché derrière la statue de la reine, ils entrent enfin dans le tombeau de Desheeva. Les filles, animées par leur soif de richesse, se jettent sur les statuettes et autres trésors entreposés. Cela réveille Desheeva qui entre dans une colère noire et hurle dans une langue ancienne. Ils finissent par la vaincre, enfermant son âme dans le cimeterre sacré qu’Accacius avait heureusement emmené avec lui.
 
 Ils repartent alors vers Keshira en attendant leur départ.
+
+*Illustration du header by Hetman80*
