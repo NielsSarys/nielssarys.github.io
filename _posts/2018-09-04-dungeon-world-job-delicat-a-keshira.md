@@ -11,7 +11,7 @@ tags:
 - jdr
 
 ---
-_Voici la suite des aventures de nos évadés du désert ! Nous passons donc de Funnel World à Dungeon World, ce qui signifie que nos joueurs passent de simples villageois à héros. Vous découvrirez comment dans ce second résumé. Lion est éclaireur (Dono), Accacius mage (Mich), Anastasia barbare (Zaël) et Bettravia est voleur (Laul). La partie est un peu longue et aurait certainement méritée deux sessions, mais les joueurs commencent à se faire aux personnages !_
+Voici la suite des aventures de nos évadés du désert ! Nous passons donc de _Funnel World_ à _Dungeon World_, ce qui signifie que nos joueurs passent de simples villageois à héros. Vous découvrirez comment dans ce second résumé. **Lion** est éclaireur (Dono), **Accacius** mage (Mich), **Anastasia** barbare (Zaël) et **Bettravia** est voleur (Laul). La partie est un peu longue et aurait certainement méritée deux sessions, mais les joueurs commencent à se faire aux personnages !
 
 ## **Une nouvelle vie ?**
 
