@@ -13,7 +13,7 @@ tags:
 ---
 Voici la suite des aventures de nos évadés du désert ! Nous passons donc de _Funnel World_ à _Dungeon World_, ce qui signifie que nos joueurs passent de simples villageois à héros. Vous découvrirez comment dans ce second résumé. **Lion** est éclaireur (Dono), **Accacius** mage (Mich), **Anastasia** barbare (Zaël) et **Bettravia** est voleur (Laul). La partie est un peu longue et aurait certainement méritée deux sessions, mais les joueurs commencent à se faire aux personnages !
 
-## **Une nouvelle vie ?**
+## Une nouvelle vie ?
 
 La vie de nos héros a basculé depuis le sac de _Bourgenfort_ et l’évasion de la forteresse de **Karaam**, chef des esclavagistes. Après de nombreux jours à errer dans le désert, les joueurs ont rejoint _Keshira_, grande ville portuaire où caravanes et marins se rencontrent pour commercer. Keshira est un comptoir commercial sous la protection du **Triumvirat**, un puissant empire expansionniste, auquel appartient Bourgenfort, village de nos héros. Au sud de Keshira se trouvent les _tribus des sables_, nom donné aux multiples tribus vivant dans le désert. Elles sont les restes d’une antique civilisation qui s’étendait jadis jusqu’aux frontières du Triumvirat.
 
@@ -25,7 +25,7 @@ Quant à Lion, il s’exila dans le désert, prenant la destruction de son villa
 
 Anastasia a élu domicile à la _Mouette Chantante_, une auberge remplie de marins et de truands de tous horizons. Bettravia, elle, squatte une vieille bâtisse. Elle passe la majeure partie de son temps à entretenir ses relations avec **Le Mulot**, chef de la pègre locale et propriétaire du Palais des bains.
 
-## **Job délicat à Keshira**
+## Job délicat à Keshira
 
 <p><img class="img-fluid" src="src/map_keshira.png" alt="Carte de Keshira" /></p>
 
@@ -63,4 +63,4 @@ Après avoir découvert le passage secret caché derrière la statue de la reine
 
 Ils repartent alors vers Keshira en attendant leur départ.
 
-*Illustration du header by Hetman80*
+_Illustration du header by Hetman80_
