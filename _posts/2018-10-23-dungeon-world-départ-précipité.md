@@ -4,7 +4,7 @@ desc: true
 permalink: "/:title"
 date: 2018-10-23 02:00:00 +0200
 layout: post
-image: https://img00.deviantart.net/1540/i/2016/250/7/2/medieval_arabic_city_by_hetman80-dagueke.jpg
+image: https://img01.deviantart.net/d967/i/2015/231/d/0/medieval_fantasy_port_by_lotharzhou-d7yzs5y.jpg
 keywords: dungeon world, jdr, compte-rendu, jeu de rôle
 tags:
 - cr
@@ -45,4 +45,4 @@ Accacius tente une prestidigitation. Il veut faire apparaître une multitude de 
 
 Une heure plus tard, en pleine mer. La barbare tient le cap. Elle a appris à connaître la mer pendant ses voyages. Soudain, au loin, un navire de guerre. Les couleurs de Keshira. Une stratégie est décidée. Accacius crée de fausses flammes qui viennent lécher les voiles de leur bateau. Tout le monde fait le mort. L’ennemi approche. Ils abordent le bateau. Quand le pied du capitaine touche les planches, Anastasia déchaine sa rage sur les soldats, et Lion fait voler des flèches. Accacius met le feu au navire ennemi. Il a étudié le sort de Boule de feu durant le voyage. L’embarcation ennemi commence à couler. Les derniers soldats se jettent à l’eau ou avancent pour rencontrer les lames affutées d’Anastasia et Bettravia. Le silence entoure alors nos amis, seuls au milieu de cette immense étendue d’eau.
 
-_Illustration du header by Hetman80_
+_Illustration du header by LotharZhou_
