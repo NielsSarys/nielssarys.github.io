@@ -44,5 +44,6 @@ fields:
   hidden: false
   default: "/:title"
 pages:
+- _posts/dungeon-world-l-ordre-de-l-oeil-rouge.md
 - _posts/2018-10-23-dungeon-world-départ-précipité.md
 - _posts/2018-09-04-dungeon-world-job-delicat-a-keshira.md
