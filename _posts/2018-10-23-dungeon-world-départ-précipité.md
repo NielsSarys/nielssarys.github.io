@@ -1,5 +1,5 @@
 ---
-title: 'Dungeon World : départ précipité'
+title: 'Dungeon World [B-3] : départ précipité'
 desc: true
 permalink: "/:title"
 date: 2018-10-23 02:00:00 +0200
