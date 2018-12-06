@@ -12,7 +12,7 @@ desc: true
 permalink: "/:title"
 
 ---
-Le voilà enfin. 8 ans après la sortie du premier opus, Rockstar Games nous offre un préquel aux aventures de John "Fucking" Marston. Autant dire que je n’avais pas vu un jeu autant faire parler de lui depuis… GTA V. Car il n’y a que R* pour proposer une œuvre aussi monumental. Nous allons découvrir ensemble si, au delà de la technique, R* a réussi à donner une suite au jeu qui a marqué tant de joueurs. 
+Le voilà enfin. 8 ans après la sortie du premier opus, Rockstar Games nous offre un préquel aux aventures de John "Fucking" Marston. Autant dire que je n’avais pas vu un jeu autant faire parler de lui depuis… GTA V. Car il n’y a que R* pour proposer une œuvre aussi monumentale. Nous allons découvrir ensemble si, au delà de la technique, R* a réussi à donner une suite au jeu qui a marqué tant de joueurs. 
 
 **Une technique quasi-irréprochable**
 
