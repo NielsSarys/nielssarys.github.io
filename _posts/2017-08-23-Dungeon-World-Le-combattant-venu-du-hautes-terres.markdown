@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "Dungeon World : le combattant venu des Hautes-Terres"
-date: 2017-08-23 15:32:20
-tags: [cr, jdr]
-image: "https://www.nordicvisitor.com/images/scotland/quiraing_view_isle_of_skye_scotland_highlands.jpg"
-keywords: "dungeon world, jdr, compte-rendu, jeu de rôle"
+title: 'Dungeon World A-1 : le combattant venu des Hautes-Terres'
+date: 2017-08-23 15:32:20 +0000
+tags:
+- cr
+- jdr
+image: https://www.nordicvisitor.com/images/scotland/quiraing_view_isle_of_skye_scotland_highlands.jpg
+keywords: dungeon world, jdr, compte-rendu, jeu de rôle
 desc: true
-permalink: /:title
----
+permalink: "/:title"
 
+---
 Voilà quelques temps que j'ai envie de faire des comptes-rendus de parties de JDR. En voici donc un premier que je compléterai au fur et à mesure des parties. Il s'agit d'une partie en "one to one", càd avec un MJ (moi-même) et un joueur (mon compère Nighdor), à l'instar du podcast [2D6+cool](http://2d6pluscool.ovh/index.php/tag/dungeon-world/). Nous jouons à Dungeon World, du D&D powered by the apocalypse ! Le personnage de Nighdor, Cillian, a été créé avec le supplément Class Warfare de DW. Je joindrai sa fiche de personnage à l'article dès que je le peux ;) Bonne lecture !
 
 ## L'école du grand menhir
