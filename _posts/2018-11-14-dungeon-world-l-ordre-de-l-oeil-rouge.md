@@ -1,5 +1,5 @@
 ---
-title: 'Dungeon World : l''Ordre de l''Oeil Rouge'
+title: 'Dungeon World [B-4] : l''Ordre de l''Oeil Rouge'
 desc: true
 permalink: "/:title"
 date: 2018-11-14 02:00:00 +0100
