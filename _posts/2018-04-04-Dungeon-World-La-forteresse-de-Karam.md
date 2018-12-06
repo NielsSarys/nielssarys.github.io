@@ -1,12 +1,12 @@
 ---
-title: 'Dungeon World : la forteresse de Karam'
+title: 'Dungeon World B-1 : la forteresse de Karam'
 tags:
-  - cr
-  - jdr
-keywords: 'dungeon world, jdr, compte-rendu, jeu de rôle'
-image: /src/dw-dm-1-.jpg
----
+- cr
+- jdr
+keywords: dungeon world, jdr, compte-rendu, jeu de rôle
+image: "/src/dw-dm-1-.jpg"
 
+---
 Voici le premier compte-rendu d'une nouvelle campagne Dungeon World, à l'instar du podcast [2D6+cool](http://2d6pluscool.ovh/index.php/tag/dungeon-world/). Cette première partie est réalisée avec le hack Funnel World, permettant de jouer de simples villageois faisant face à de grands dangers. Nos joueurs incarnent **Lion** le milicien (Dono), **Accacius** le soigneur (Mich), **Anastasia** la bouchère (Zaël) et **Mortadella** la croque-mort (Laul).
 
 ## Le sac de Bourgenfort
