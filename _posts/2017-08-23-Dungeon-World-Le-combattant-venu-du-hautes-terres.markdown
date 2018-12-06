@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dungeon World A-1 : le combattant venu des Hautes-Terres'
+title: 'Dungeon World [A-1] : le combattant venu des Hautes-Terres'
 date: 2017-08-23 15:32:20 +0000
 tags:
 - cr
