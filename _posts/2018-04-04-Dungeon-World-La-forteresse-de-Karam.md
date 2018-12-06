@@ -1,5 +1,5 @@
 ---
-title: 'Dungeon World B-1 : la forteresse de Karam'
+title: 'Dungeon World [B-1] : la forteresse de Karam'
 tags:
 - cr
 - jdr
