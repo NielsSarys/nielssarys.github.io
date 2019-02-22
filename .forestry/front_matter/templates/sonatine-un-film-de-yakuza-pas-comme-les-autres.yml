@@ -44,6 +44,7 @@ fields:
   hidden: false
   default: "/:title"
 pages:
+- _posts/apocalypse-world-kingsroad-épisode-1.md
 - _posts/conseils-aux-meneurs-nommer-les-lieux.md
 - _posts/2018-11-14-dungeon-world-l-ordre-de-l-oeil-rouge.md
 - _posts/2018-10-23-dungeon-world-départ-précipité.md
