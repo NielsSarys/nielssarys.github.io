@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apocalypse World : Kingsroad - Épisode 1'
-date: 2017-08-23 15:32:20 +0000
+date: 2019-02-22 08:00:00 +0100
 tags:
 - cr
 - jdr
