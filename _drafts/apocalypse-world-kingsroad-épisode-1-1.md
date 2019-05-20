@@ -2,77 +2,89 @@
 desc: true
 permalink: "/:title"
 layout: post
-title: 'Apocalypse World : Kingsroad - Épisode 1'
-image: https://images.unsplash.com/photo-1467745695289-307cecbc3bf1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80
+title: 'Apocalypse World : Kingsroad - Épisode 2'
+image: https://images.unsplash.com/photo-1552391188-d27ab57ca3bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
 keywords: apocalypse world, jdr, compte-rendu, jeu de rôle
-date: 2019-02-22 20:00:00 +0100
+date: 2019-05-20 20:00:00 +0200
 tags:
 - cr
 - jdr
 
 ---
-Voici une nouvelle partie d’Apocalypse World. On retrouve donc Dominos le Biker (Romain), Jerico le Chien de guerre (Kevin), Isaac le Céphale (Nico) et Thales le Prophète (Clément)
+Voici la suite de notre partie d’Apocalypse World. On retrouve Dominos le Biker (Romain), Jerico le Chien de guerre (Kevin), Isaac le Céphale (Nico) et Thales le Prophète (Clément) au milieu d'un beau bordel.
 
 Bonne lecture 😉
 
 **nb : les** 🎬 **représentent un changement de scène, pour vous aider à suivre**
 
-Kingsroad, la plus grande route du coin, se dresse au milieu du désert. Une quinzaine de bécanes crachent une fumée couleur charbon en la parcourant. En tête du cortège, on retrouve **Dominos**, le chef des Delivry Guys, un gang de bikers que Kain paie pour acheminer des provisions. Kain, c’est fils de pute qui gère les environs de la Kingsroad depuis la ville de Megatown. Les Delivry Guys bouffent l’asphalte depuis des heures. Ils reviennent du territoires des Producteurs, des chasseurs-cueilleurs-pilleurs qui troquent des vivres contre une bonne quantité de boulons. Un homme en tenue de combat est assis à l’arrière de la moto de Dominos. Il s’agit de **Jerico**, chien de guerre de son état. Il jette un rapide coup d’oeil en arrière. Bruit de pales qui se rapprochent. Ces saloperies de UberFood, un gang rival, les collent au cul depuis une bonne heure, et voilà qu’ils se rapprochent. Ils pilotent des “Oiseaux”, des petits ULM de fortune. Un des oiseaux ouvre le feu. Des balles ricochent sur la carlingue. Jerico se retourne sur la moto et attrape son fusil d’assaut. Il envoie plusieurs rafales sur l’oiseau qui s’écrase lourdement sur Bigs et Wage, deux membres des Delivery Guys. Tripaille et bouts de métal dans tous les sens. Le groupe perd par la même occasion une grosse partie de la cargaison.
+Le soleil tape dur sur les baraques en tôle qui composent Megatown, comme une gros tas de charbons ardents dans un baril de métal. Jerico est toujours au pieu avec Régina. Elle boutonne son jean et sort du lit. La jeune femme lui demande de but en blanc ce qu’il adviendra quand Jason découvrira leur liaison. Jason c’est le fils de K1, et le régulier de Régina. Les officiels s’échangent un objet important lors de leur union. Régina porte une carte postale autour du cou. On la voit apparaître derrière son marcel troué. La carte est plastifiée et affiche une grande étendue d’eau bordée de sable et d’étranges arbres.
 
-La course poursuite continue. Ils approchent du QG des Delivery Guys, une station essence désaffectée au bord de Kings Road. Une enseigne avec une grosse couronne flotte au dessus du tas de briques. Dominos fait signe à son équipe de foncer jusqu’à Megatown. Pneus qui crissent. Dominos, Jerico, Hutt et Paï s’arrêtent devant le QG et descendent de leurs motos. Jerico court se mettre à couvert à une trentaine de mètre. Il disparaît derrière un rocher, charge le lance patate sous son fusil et tire. L’explosion disperse la poussière, camouflant les motos, le QG et les trois connards cachés derrières. Plusieurs oiseaux leur passent au dessus, sans les voir, et foncent vers Megatown. Hutt vérifie frénétiquement le chargeur de son arme. Hutt, c’est le p’tit frère de Dominos. Dominos lui dit de se calmer et d’attendre le bon moment.
-
-🎬
-
-Megatown. Cette putain de citadelle bardée de métal qui se dresse au milieu du désert. Kingsroad se jette dedans, comme si la ville l’avalait. Une silhouette observe l’horizon depuis le chemin de ronde. C’est **Isaac**, le céphale de service, fantomatique et flippant, avec sa face cramée. Le reste des Delivery Guys foncent vers la ville. On gueule d’ouvrir les portes. Les deux grandes plaques d’acier raclent le sol. Megatown engloutit la douzaine de motards. Les gars de Dominos sautent de joie, les mains pleine de bidons d’eau et de bouffe. Des oiseaux arrivent aux abords de la ville, ça mitraille. Les gardes se mettent en alerte et ripostent. Isaac descend et ordonne aux Delivery Guys de monter défendre les remparts. Samouraï, un des lieutenants de Dominos lui dit d’aller se faire foutre : “T’es pas mon chef enfoiré”. Le céphale le menace. Samouraï flippe et s’exécute, mais ça va se payer…
-
-C’est le bordel au dessus de la ville. Ces enfoirés de Uberfood passent en razmotte et arrosent tout ce qui bouge. Le céphale se planque le long des murs. Soudain, un oiseau se prend un tir lointain. On reconnaît le talent de Jerico, pourtant à plusieurs centaines de mètres. Appuyé sur la roche, il range son fusil de précision, le canon encore fumant. Le véhicule volant s’écrase dans l’enceinte de la ville, à quelques pas de Isaac.
+Jerico balance qu’il s’en bat les couilles de Jason, c’est le problème de Régina. Lui, il est là pour la baise. Régina attrape ses affaires, et file en insultant Jerico de sale con.
 
 🎬
 
-Plusieurs personnes vaquent à leurs occupations au milieu de l’amphi d’une université en ruine. **Thales**, le prophète d’une secte de déviants en tout genre, débarque au milieu de la pièce. Ses pieds nus ne font aucun bruit sur les marches. On les appelles les Philosophes, car ils se revendiquent des Lumières. Ce que c’est ? Personne sait vraiment, mais c’était des malins. C’est écrit dans les livres de l’Âge d’or. Phèdre recoud un haut de forme, pendant que Aritote lit un vieux bouquin. Le prophète déballe son sermon quotidien, rappelant l’importance de l’étude des textes anciens. Soudain, une dispute éclate entre Jésus et Adolf. Une histoire de bouquin. Le prophète intervient et calme le jeu en proposant un troc équitable. Des tirs se font entendre à l’extérieur. Thales demande à ses fidèles de rester à l’intérieur et sort jeter un oeil.
+La face cramée du prophète s’approche de la porte de tôle du garage. Il toque mais personne ne répond. Dans le fond de la vieil station service, un grand homme fait cracher la flamme de son chalumeau sur la carcasse explosé de l’oiseau de fer récupéré durant la dernière bataille. Thales approche et signale sa présence. Danse soulève la visière de son casque, laissant apparaître une longue barbe tressée couleur cendre. Thales annonce la situation à Danse mais le mécano ne veut plus traiter avec “cet enfoiré de Deacon” depuis une vague histoire d’arnaque et de pièces détachées.
+
+Thales négocie et se porte garant. Il propose à Danse de signer un contrat avec Deacon. Le mécano lui prêtera son électro-aimant contre paiement. Les deux hommes se rendent à l’université où le medic maintient le uberfood prisonnier en vie.
 
 🎬
 
-La fumée se dissipe autour de l’oiseau écrasé. Les deux Uberfood à bord paniquent, chopent une arme et canardent. Isaac fait de même. Le copilote se prend une balle et lâche son flingue. L’autre tire sur le céphale. Isaac lui en place une sur le flanc mais le pilote parvient à s’extraire de l’appareil et fonce à travers la ville. D’autres appareils s’écrasent à l’extérieur de Megatown.
+Dominos boîte jusqu’à l’infirmerie. Son frère y est toujours allongé, se remettant de leur dernier accrochage avec les uberfoods. Il est vite rejoint par Jerico qui sort de sa piaule. Dans le Dream G, Paille fait joujou avec son nouveau lance-flamme sous les yeux inquisiteurs de Newton. Dominos fait part de son inquiétude au sujet de K1 à Jerico. K1 a eu du mal à le payer, et ça sent vraiment pas bon. Jerico affirme son soutien à Dominos et propose d’aller voir Marta, la femme du boss, pour mener l’enquête. Dominos, lui, trottine avec peine vers la cabane du céphale.
 
 🎬
 
-Le nuage de poussière retombe près du QG des Delivery Guys. Nos quatre amis sont à cran. Jerico jette un oeil au dessus de son gros caillou. Quatre oiseaux se posent à quelques pas du QG, huits mecs en sortent. Dominos observe la situation. Celui de tête est armé d’un putain de lance-flamme, bouteilles de gaz dans le dos. Les Uberfood avancent, mouvements tactiques vers le QG. Dominos demande à Hutt et Paï de bouger à l’étage. Le chef des bikers fait un peu de bruit pour attirer le type au lance-flamme. Il s’approche, se prend une barre à mine en pleine gueule et tombe lourdement sur le sol. Jerico ouvre le feu au fusil de précision. Hutt et Paï arrose depuis le toit. C’est le putain de carnage. Plusieurs ennemis tombent. Domino achève sa cible à la barre à mine mais se prend une volée de plomb. Il tombe au sol. Paï annonce à la radio que Hutt est touché.
-
-Les survivants tentent de se barrer en ULM. Jerico balance une grenade au lance-patate. Les véhicules explosent. Les uberfood aussi. Jerico rejoint en vitesse ses compagnons. Hutt descend, porté par Paï. Dominos se relève, rien de grave. Mais il faut emmener Hutt en urgence voir le toubib. Ils enfourchent leurs motos et foncent sur Kingsroad.
+Cette âme errante d’Isaac est debout devant un petit autel improvisé. Dans sa cabane, l’air est moite. Des crânes et autres parties du corps sont suspendus, comme des effigies vaudou improvisées. Le céphale ouvre son cerveau au maelstrom. Peut-être qu’il y trouvera des réponses à ses questions. L’air devient irrespirable. Yeux qui se révulsent. Le monde qui l’entoure tombe sur le sol comme une tâche de pétrole qui se répand sur le sable. Il voit un katana dans une plaine désertique. Des vautour tournent dans le ciel et se transforment brusquement en motards squelettes. Leurs rires résonnent dans sa tête. Ils finissent par se liquéfier en une flaque de sang qui recouvrent le visage d’Isaac.
 
 🎬
 
-Isaac s’approche du blessé dans la carcasse de l’oiseau. Le mec arrive à choper son flingue et tire sur le céphale. La balle siffle en passant à ras de sa tête. Isaac pose son pied sur son bras, lui faisant lâcher le 9mm. Il pose sa main gantée sur sa tête. L’air devient moite autour d’eux. Les yeux du uberfood se retournent. Des veines bleutées se dessinent sur ses tempes. Sans un mot, le céphale lui implante un ordre : “Dis moi d’où vous venez”. Le type répond “Plaisance” et crève avant d’en dire plus.
+Thales et Danse arrive à l’Université. Il n’y a pas un chat dans le repère des Philosophes. Voltaire est assis et lit. Thales lui demande où sont les autres mais le disciple fuit du regard. Thales lui met la pression et Voltaire finit par dire la vérité : ils sont parti chercher de la viande, ils n’en pouvaient plus d’attendre.
+
+Au milieu de l'amphithéâtre, Deacon termine un énième point de suture sur le flanc du prisonnier. Thales trouve de quoi écrire et finit par conclure le contrat entre les deux rivaux. Le prophète demande à Deacon si le prisonnier survivra. Il dort, une seringue planté dans le cou, une autre dans l’avant-bras. Sa tête tombe. Thales la remet droite, comme on redresse un tableau.
 
 🎬
 
-Les portes de l’université s’ouvrent. Le prophète sort de son temple et tombe nez à nez avec le fugitif qui s’est échappé de l’oiseau accidenté quelques secondes auparavant. L’uberfood le braque. Thales tente de le manipuler, mais ça foire. Le fugitif lui colle son flingue sous le menton et lui ordonne de l’amener à son chef.
+Le céphale finit par revenir à lui, dévoilant un regard confus. Dominos gueule “Céphaaaaaaale” depuis l’extérieur, avec le même air chantant qu’à son habitude. Isaac l’invite à entrer. Le biker fait une réflexion sur le côté glauque de la déco. Ils s’entretiennent longuement sur la situation. Dominos veut que le céphale lui parle de ce qu’il sait. Isaac lui parle de sa vision. Dominos sait que le céphale ne lui aurait pas dit tout ça s’il le suspectait. C’est Samurai qu’il suspecte. Mais Dominos a une confiance totale en ses gars. Isaac finit par lâcher la bombe : “K1 m’a demandé de te surveiller”.
 
-Son chef… Kain… le cul posé sur son trône d’acier. Le boss vit à l’extérieur de la ville, juste derrière, coincé entre quelques pics rocheux. Il mange goulument un fruit aux formes étranges. Des gardes bien armés attendent tout autour. Ça tape à la porte. Les gardes ouvrent et on voit Thales apparaître. “Salut, y’a quelqu’un qui veut vous parler” qui dit, avec le même putain de sourire qu’il porte en permanence. Le uberfood passe la tête. le flingue sur la gorge du prophète. Il transpire comme un goret sous son bonnet d’aviateur. Il réclame un véhicule et des vivres. Ce con connaît visiblement pas la réputation de Kain. Thales négocie avec le fugitif. En échange d’information sur son gang, il pourra sortir de la zone.
-
-Pendant que Thales et le type discutent, Isaac s’approche en douce, pose sa main squelettique sur son crâne. Il lâche son arme, elle tombe sur le sol. Le céphale raconte à Kain ce qu’il sait sur Plaisance. Le gros colosse habillé de cuir et tatoué de la tête aux pieds réfléchie longuement. Il demande à Isaac de faire parler ce fils de pute, et à Thales de faire bosser ses philosophes pour trouver Plaisance. Ils l’emmènent à l’université. Sur la route, ils passent par la place principale de Megatown. Les habitants qui s’étaient barricadés ouvrent leurs fenêtres. La fusillade a pas fait trop de dégâts ce coup ci.
-
-Les autres reviennent en moto. Dominos gueule qu’on appelle vite le doc pour son frère. Le doc, c’est Deacon. Il a un cabinet au Dream G. Ça fait aussi office de boucherie quand y’a besoin. Le Dream G ? Ah, c’est un haut lieu de Megatown : auberge, clinique, drugstore, bordel ; on peut y trouver ce qu’on veut contre quelques boulons, le tout dans un centre commercial typique de l’Âge d’or. Y’a des théories sur le G du Dream…
-
-Preston et Mcreary emmènent Hutt chez Deacon. Dominos aperçoit l’uberfood que ramènent Isaac et Thales. Il voit rouge, saute sur le gars et lui explose la mâchoire. Le mec a la gueule en sang. Personne a eu le temps de réagir. Ça n’a pas manqué d’ouvrir un peu plus la blessure de Dominos. Il va tout de suite se faire soigner.
-
-Le céphale et le prophète arrivent à l’université. Ils balancent l’uberfood sur une chaise et le ligote solidement. Thales demande à Stephenking de trouver cette fameuse “Plaisance”. Stephenking accepte mais il lorgne sur le prisonnier : “y’a moyen d’avoir un bout prophète ?”. Thales acquise d’un signe de tête. Il demande à Laotseu de préparer ses couteaux. Bruit des lames qui sifflent. Terreur dans les yeux de l’uberfood.
-
-Isaac force le type à leur dire comment ils savent tout le temps quand attaquer. La pire des hantises : un putain de traître. Tous se regardent de travers.
+Isaac insiste pour que Dominos attire Samurai, afin qu’il l’interroge. Le chef de gang refuse, ça serait rompre la confiance avec ses gars. Il préfère enquêter de son côté, Samurai ne pourra pas lui mentir. De toute façon, les règles sont claires : pas d’arme à feu dans la ville. Même K1 doit respecter les règles. Si Samurai a quelque chose à voir avec ce bordel, ça se réglera à mains nues, comme le veut la loi.
 
 🎬
 
-Jerico traverse les rues de Megatown. Un bras sort de l’ombre et le plaque contre les planches pourries d’un vieille cabane. C’est Régina, une des Delivery Guys. La jeune femme blonde, tout en muscles, lui ordonne de lui donner “ce qu’il sait”. Il sourit et on les retrouve dix minutes plus tard dans la chambre que Jerico loue au Dream G. Pendant ce temps, Deacon finit de panser le flanc de Dominos. Son frère est allongé sur la table d’opération. Il s’en sortira. Deacon lui rappelle que c’est pas gratuit. Une bonne quantité de boulons, au plus vite. Dominos sort du Dream G, salue Newton, le proprio de l’auberge, et fait route vers la case de Kain.
+Le “K1” inscrit sur les portes du bunker se sépare pour avaler Jerico. Turbine et Alcatraz, les gorilles de K1 le dévisagent. Suivant les couloirs labyrinthiques de la demeur de béton, il arrive dans les appartements de Marta. D’antiques meubles d’avant l’apocalypse se mêlent aux caisses de munitions et autres surplus militaires. Pas de doute, la famille de K1 a amassé bien des richesses.
+
+Marta est assise dans un canapé en velour rouge à bordure plaqué or. Son visage finit par apparaître derrière la fumée de son narguilé. Une petite silhouette se jette sur Jerico : “Salut Jericoooo !”. C’est Dwayne, le plus jeune fils de K1. Le gamin d’à peine dix ans enserre les jambes du militaire. Jerico esquisse un sourire en frottant la tête du gosse : “Salut bonhomme”. Marta demande à Jerico ce qui l’amène. Ils partagent une véritable relation de confiance. Cela fait longtemps que Jerico veille sur Marta et ses fils. Jerico joue franc-jeu et lui demande si elle a vu quelque chose de suspect dans le comportement de K1, ou si quelqu’un pourrait lui en vouloir. A l’évidence, à part les ubereats, elle ne voit pas. Ça fait des années que Mika, le chef des ubereats, convoite le contrôle de Kingsroad. Mais Megatown et les Delivery Guys lui font de l’ombre. Marta dévoile qu’elle est prête à tout pour protéger ses enfants. Ça ne la dérangerait pas que son mari crève et que Jason prenne sa place. D’ailleurs, ça fait quelques jours qu’elle n’a plus de nouvelle de Jason, elle se demande où il est.
 
 🎬
 
-Les Philosophes parcourent les bouquins tous plus vieux les uns que les autres. Stephenking s’approche de Thales, il a trouvé quelque chose. Il lui tend une vieille brochure. Un parc d’attraction, nommé Plaisance Park, dans la zone indiquée par le prisonnier. Isaac et le prophète décident de garder l’uberfood en vie. Il pourra servir. Il faudra que Deacon le remette en état. Mais ça veut dire pas de viande, les gars de Thales s’énervent. Thales propose de négocier le corps d’un des uberfoods tombés de l’autre côté des remparts. Le toubib a dû les récupérer. Le prophète et le céphale se séparent. Isaac va faire son rapport au patron. Thales obtient un deal avec le doc : ces gars auront de la viande s’il lui obtient l’électro-aimant de Danse, le mécano.
+Thales salut Danse et part avec Deacon vers le Dream G pour récupérer la viande qu’il lui a promis. Ils saluent Newton et entrent dans l’infirmerie. Bordel. A l’intérieur, Jésus, Balzac et Laotseu, trois disciple du prophète, sont occupés à couper la jambe de Hutt à la scie chirurgicale. Jésus se jette sur Deacon et le poignarde frénétiquement avec un scalpel. Jésus se relève, couvert de sang, et fait face à son maître. Thales réussit à le calmer. Jésus sanglotte, expliquant que c’est la faim qui les a poussé à faire ça. Thales le prend dans ses bras : “Ce n’est pas grave, je te pardonne”... juste avant de lui traverser la gorge avec un scalpel. Jésus tombe sur le sol, les mains autour du cou. Laotseu s’éloignent du corps de Hutt, laissant tomber la scie.
+
+Jerico débarque dans la pièce, ameuté par les cris alors qu’il revenait chez lui. Fusil à la main, il jette un rapide coup d’oeil. Le corps sans vie de Deacon, la jambe de Hutt bien entamée. Il arrose Balzac et Laotseu.
 
 🎬
 
-Dominos se tient devant la lourde porte de Kain. On le laisse entrer. Il rentre avec un léger titubement. Sa hanche le fait encore souffrir malgré les anti-douleurs. Il réclame son paiement à Kain, mais le colosse ne l’entend pas de cette oreille ; la cargaison n’est pas complète. Dominos négocie et lui promet que la prochaine fois il aura la totalité de la commande. Il récupère sa thune, mais Kain est clairement en rogne. Isaac débarque sans un bruit, comme à son habitude. De but en blanc, il annonce qu’ils savent où se cachent les Uberfood et qu’il y a une taupe dans le domaine. Dominos retourne à ses occupations. Kain attrape Isaac par le colbac et lui ordonne de surveiller de près “cet enfoiré de biker”.
+Dominos fait route vers la case de Samurai. Il est très vite rattrapé par Isaac qui a eu une révélation : et si la cible de Mika n’est pas K1 mais Dominos, K1 peut avoir vendu le biker ! Soudain, des coups de feu retentissent. Ça vient du Dream G : “Putain, Hutt !”, lance Dominos qui fait abstraction de la douleur et court vers l’origine des coups de feu.
+
+Dominos arrive devant le Dream G. Les soldats de K1 sont en alerte. Les habitants de Megatown se sont attroupés autour de l’entrée. Partout des messes-basses. Les rumeurs se répandent déjà. Un corps recouvert d’un drap blanc gît sur le sol. Dominos poussent les gardes et se jette sur le corps. Il soulève le drap et découvre les yeux morts du médic. Il fonce dans l’infirmerie et voit Jerico et Thales qui opèrent Hutt. Il les poussent à leur tour et demande ce qu’il s’est passé, le regard paniqué. Hutt va bien, plus de peur que de mal. Il est dans les vapes, et il devrait encore pouvoir marcher. Dominos demande à Thales de rassembler ses disciples et à Jerico de surveiller son frère. En sortant, les hommes de K1 les dévisagent : “Putain, K1 va vous défoncer. Vous avez foutu le bordel… et le doc est mort”.
+
+Une heure plus tard, le calme est revenu au Dream G. Régina débarque dans l’infirmerie. Elle voulait savoir si Jerico allait bien. Jerico la tacle : “T’étais pas avec ton Jason ?”. Elle ne sait pas où se trouve son régulier, et ça l’inquiète. Personne ne sait où il est. Jerico envoie chier une nouvelle fois Régina.
+
+🎬
+
+Isaac va faire son rapport à K1. Il a bien l’intention de la baratiner. Le céphale lui parle de sa vision, mais ne parle que du katana. Il accuse clairement Samurai. K1 tique et gueule sur Isaac : “Je t’ai demandé de surveiller Dominos putain !”. K1 demande à ses gardes de raccompagner Isaac à la porte. Ce n’est pas dans ses habitudes. Il se passe quelque chose.
+
+🎬
+
+Au même moment, les Philosophes sont rassemblés. Enfin, ce qu’il en reste. Dominos pousse une gueulante. Sa voix résonne dans l’amphi : “Pourquoi avoir attaqué Hutt, pourquoi précisément lui ?!”. Personne ne répond. Ils ont clairement peur de quelque chose, ou de quelqu’un. Thales les menace : “Vous voyez, sur ma main, c’est le sang de Jésus. Il m’a déçu et il est mort. Alors ne me décevez pas”.
+
+Aritote se lève et balance Samuraï. Le biker a donné l’info ; une cible facile pour trouver de la viande fraîche. Dominos entre dans une colère noire et part trouver Samuraï.
+
+🎬
+
+Jerico demande à Newton de surveiller Hutt. Il va faire une ronde sur les remparts. Il allume un cigare et regarde l’horizon. La nuit vient de tomber. Au loin, il aperçoit les phares d’une voiture. On dirait le véhicule d’un des pilleurs de K1. La caisse avance doucement en direction de la porte principale. Jerico prévient les gardes. Tout le monde descend. Ils freinent la voiture avant qu’elle ne tape les murailles. A l’intérieur, un des gars de K1, tête coupée, mains scotchées au volant. Sur le capot, écrit en lettre de sang : PLUS QUE 2 JOURS.
+
+🎬
+
+Le céphale descend une ruelle de Megatown pour rejoindre sa cabane. Soudain, des bruits de pas dans son dos. Un câble de démarrage se tend et encercle son cou.
 
 A suivre 🔥
 
-_Photo du header by_ [Sebastien Gabriel](https://unsplash.com/@sgabriel)
+_Photo du header by_ [Heather Gill](https://unsplash.com/@heathergill)
