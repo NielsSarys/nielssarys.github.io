@@ -65,11 +65,11 @@ Dominos fait route vers la case de Samurai. Il est très vite rattrapé par Isaa
 
 Dominos arrive devant le Dream G. Les soldats de K1 sont en alerte. Les habitants de Megatown se sont attroupés autour de l’entrée. Partout des messes-basses. Les rumeurs se répandent déjà. Un corps recouvert d’un drap blanc gît sur le sol. Dominos poussent les gardes et se jette sur le corps. Il soulève le drap et découvre les yeux morts du médic. Il fonce dans l’infirmerie et voit Jerico et Thales qui opèrent Hutt. Il les poussent à leur tour et demande ce qu’il s’est passé, le regard paniqué. Hutt va bien, plus de peur que de mal. Il est dans les vapes, et il devrait encore pouvoir marcher. Dominos demande à Thales de rassembler ses disciples et à Jerico de surveiller son frère. En sortant, les hommes de K1 les dévisagent : “Putain, K1 va vous défoncer. Vous avez foutu le bordel… et le doc est mort”.
 
-Une heure plus tard, le calme est revenu au Dream G. Régina débarque dans l’infirmerie. Elle voulait savoir si Jerico allait bien. Jerico la tacle : “T’étais pas avec ton Jason ?”. Elle ne sait pas où se trouve son régulier, et ça l’inquiète. Personne ne sait où il est. Jerico envoie chier une nouvelle fois Régina.
+Une heure plus tard, le calme est revenu au Dream G. Régina débarque dans l’infirmerie. Elle voulait savoir si Jerico allait bien. Jerico la tacle : “T’étais pas avec ton Jason ?”. Elle ne sait pas où se trouve son régulier, et ça l’inquiète. Personne ne sait où il est. Jerico l'envoie encore chier.
 
 🎬
 
-Isaac va faire son rapport à K1. Il a bien l’intention de la baratiner. Le céphale lui parle de sa vision, mais ne parle que du katana. Il accuse clairement Samurai. K1 tique et gueule sur Isaac : “Je t’ai demandé de surveiller Dominos putain !”. K1 demande à ses gardes de raccompagner Isaac à la porte. Ce n’est pas dans ses habitudes. Il se passe quelque chose.
+Isaac va faire son rapport à K1. Il a bien l’intention de le baratiner. Le céphale lui parle de sa vision, mais ne parle que du katana. Il accuse clairement Samurai. K1 tique et gueule sur Isaac : “Je t’ai demandé de surveiller Dominos putain !”. K1 demande à ses gardes de raccompagner Isaac à la porte. C'est pas son habitude. Il se passe quelque chose.
 
 🎬
 
