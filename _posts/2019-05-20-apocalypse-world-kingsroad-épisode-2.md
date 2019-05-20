@@ -19,7 +19,7 @@ Bonne lecture 😉
 
 Le soleil tape dur sur les baraques en tôle qui composent Megatown, comme un gros tas de charbons ardents dans un baril de métal. Jerico est toujours au pieu avec Régina. Elle boutonne son jean et sort du lit. La jeune femme lui demande de but en blanc ce qu’il adviendra quand Jason découvrira leur liaison. Jason c’est le fils de K1, et le régulier de Régina. Les officiels s’échangent un objet important lors de leur union. Régina porte une carte postale autour du cou. On la voit apparaître derrière son marcel troué. La carte est plastifiée et affiche une grande étendue d’eau bordée de sable et d’étranges arbres.
 
-Jerico balance qu’il s’en bat les couilles de Jason, c’est le problème de Régina. Lui, il est là pour la baise. Régina attrape ses affaires, et file en insultant Jerico de sale con.
+Jerico balance qu’il "s’en bat les couilles" de Jason, c’est le problème de Régina. Lui, il est là pour la baise. Régina attrape ses affaires, et file en insultant Jerico de sale con.
 
 🎬
 
