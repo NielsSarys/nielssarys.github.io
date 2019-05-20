@@ -23,9 +23,9 @@ Jerico balance qu’il s’en bat les couilles de Jason, c’est le problème de
 
 🎬
 
-La face cramée du prophète s’approche de la porte de tôle du garage. Il toque mais personne ne répond. Dans le fond de la vieil station service, un grand homme fait cracher la flamme de son chalumeau sur la carcasse explosé de l’oiseau de fer récupéré durant la dernière bataille. Thales approche et signale sa présence. Danse soulève la visière de son casque, laissant apparaître une longue barbe tressée couleur cendre. Thales annonce la situation à Danse mais le mécano ne veut plus traiter avec “cet enfoiré de Deacon” depuis une vague histoire d’arnaque et de pièces détachées.
+La face cramée du prophète s’approche de la porte de tôle du garage. Il toque mais personne ne répond. Dans le fond de la vieille station service, un grand homme fait cracher la flamme de son chalumeau sur la carcasse explosée de l’oiseau de fer récupéré durant la dernière bataille. Thales approche et signale sa présence. Danse soulève la visière de son casque, laissant apparaître une longue barbe tressée couleur cendre. Thales annonce la situation à Danse mais le mécano ne veut plus traiter avec “cet enfoiré de Deacon” depuis une vague histoire d’arnaque et de pièces détachées.
 
-Thales négocie et se porte garant. Il propose à Danse de signer un contrat avec Deacon. Le mécano lui prêtera son électro-aimant contre paiement. Les deux hommes se rendent à l’université où le medic maintient le uberfood prisonnier en vie.
+Thales négocie et se porte garant. Il propose à Danse de signer un contrat avec Deacon. Le mécano lui prêtera son électro-aimant contre paiement. Les deux hommes se rendent à l’université où le medic maintient le prisonnier en vie.
 
 🎬
 
@@ -33,13 +33,13 @@ Dominos boîte jusqu’à l’infirmerie. Son frère y est toujours allongé, se
 
 🎬
 
-Cette âme errante d’Isaac est debout devant un petit autel improvisé. Dans sa cabane, l’air est moite. Des crânes et autres parties du corps sont suspendus, comme des effigies vaudou improvisées. Le céphale ouvre son cerveau au maelstrom. Peut-être qu’il y trouvera des réponses à ses questions. L’air devient irrespirable. Yeux qui se révulsent. Le monde qui l’entoure tombe sur le sol comme une tâche de pétrole qui se répand sur le sable. Il voit un katana dans une plaine désertique. Des vautour tournent dans le ciel et se transforment brusquement en motards squelettes. Leurs rires résonnent dans sa tête. Ils finissent par se liquéfier en une flaque de sang qui recouvrent le visage d’Isaac.
+Cette âme errante d’Isaac est debout devant un petit autel. Dans sa cabane, l’air est moite. Crânes et autres membres sont suspendus ; effigies vaudous improvisées. Le céphale ouvre son cerveau au maelstrom. Peut-être y trouvera-t-il des réponses à ses questions. L’air devient irrespirable. Yeux qui se révulsent. Le monde qui l’entoure tombe sur le sol comme une tâche de pétrole qui se répand sur le sable. Il voit un katana dans une plaine désertique. Des vautour tournent dans le ciel et se transforment brusquement en motards squelettes. Leurs rires résonnent dans sa tête. Ils finissent par se liquéfier en une flaque de sang qui recouvrent le visage d’Isaac.
 
 🎬
 
-Thales et Danse arrive à l’Université. Il n’y a pas un chat dans le repère des Philosophes. Voltaire est assis et lit. Thales lui demande où sont les autres mais le disciple fuit du regard. Thales lui met la pression et Voltaire finit par dire la vérité : ils sont parti chercher de la viande, ils n’en pouvaient plus d’attendre.
+Thales et Danse arrivent à l’Université. Il n’y a pas un chat dans le repère des Philosophes. Voltaire est assis et lit. Thales lui demande où sont les autres mais le disciple fuit du regard. Thales lui met la pression et Voltaire finit par dire la vérité : ils sont parti chercher de la viande, ils n’en pouvaient plus d’attendre. Ils font chier, mais Thales a mieux à faire.
 
-Au milieu de l'amphithéâtre, Deacon termine un énième point de suture sur le flanc du prisonnier. Thales trouve de quoi écrire et finit par conclure le contrat entre les deux rivaux. Le prophète demande à Deacon si le prisonnier survivra. Il dort, une seringue planté dans le cou, une autre dans l’avant-bras. Sa tête tombe. Thales la remet droite, comme on redresse un tableau.
+Au milieu de l'amphithéâtre, Deacon termine un énième point de suture sur le flanc du prisonnier. Thales trouve de quoi écrire et finit par conclure le contrat entre les deux rivaux. Le prophète demande à Deacon comment va le prisonnier. Il survivra. Il dort, une seringue planté dans le cou, une autre dans l’avant-bras. Sa tête tombe sur le côté. Thales la remet droite, comme on redresse un tableau.
 
 🎬
 
