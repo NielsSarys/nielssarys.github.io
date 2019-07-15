@@ -11,7 +11,7 @@ tags:
 - jdr
 
 ---
-Voici la suite de notre partie d’Apocalypse World. On retrouve Dominos le Biker (Romain), Jerico le Chien de guerre (Kevin), Isaac le Céphale (Nico) et Thales le Prophète (Clément) pour une partie très musclée ;) La tension est à son comble. Le conflit ne demande qu'à exploser. Nos personnages vont-ils s'en sortir ?
+Voici la suite de notre partie d’Apocalypse World. On retrouve Dominos le Biker (Romain), Jerico le Chien de guerre (Kevin), Isaac le Céphale (Nico) et Thales le Prophète (Clément) pour une partie très musclée ! La tension est à son comble 💣 Le conflit ne demande qu'à exploser. Nos personnages vont-ils s'en sortir ?
 
 Bonne lecture 😉
 
