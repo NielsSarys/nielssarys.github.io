@@ -35,7 +35,7 @@ Isaac suffoque. Le câble électrique lui enserre le cou. Il entend la voix de D
 
 🎬
 
-La voix de Paille faiblit à chaque mot dans le talkie-walkie de Jerico. Alactraz et Turbine, les deux molosses de K1, se dirigent vers le chien de guerre. K1 veut le voir au sujet de la fusillade du Dream G. Arrivé au bunker, ils lui prennent ses flingues. Il s’avance devant K1. Le vieux a l’air excédé. Des gouttes de sueur parcourent son visage tatoué : “Jerico, tu fous le bordel dans ma ville ? Tu tues mes citoyens ?!”. K1 lui demande de faire signe d'allégeance en lui amenant Dominos. Jerico se crispe. Le boss ajoute : “Tu ne voudrais pas qu’il arrive malheur à la femme de mon fils ?”.
+La voix de Paille faiblit à chaque mot dans le talkie-walkie de Jerico. Alactraz et Turbine, les deux molosses de K1, se dirigent vers le chien de guerre. K1 veut le voir au sujet de la fusillade du Dream G. Arrivé au bunker, ils lui prennent ses flingues. Il s’avance devant K1. Le vieux a l’air excédé. Des gouttes de sueur parcourent son visage tatoué : “Jerico, tu fous le bordel dans ma ville ? Tu tues mes citoyens ?!”. K1 lui demande de prouver son allégeance en lui amenant Dominos. Jerico se crispe. Le boss ajoute : “Tu ne voudrais pas qu’il arrive malheur à la femme de mon fils ?”.
 
 🎬
 
