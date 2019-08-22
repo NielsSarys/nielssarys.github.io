@@ -20,7 +20,7 @@ Je vais donc vous donner ici ma méthode pour trouver des noms ! Ce n’est pas 
 
 Je prends l’exemple de [notre campagne d'Apocalypse World](https://nielssarys.github.io/apocalypse-world-kingsroad-%C3%A9pisode-3). La route principale qu’empruntent le biker et son gang pour aller chercher des vivres, s’appelle Kingsroad. Pourquoi ? Parce qu’il y a une vieille station service avec pour enseigne une grosse couronne. Le joueur en a tiré tout un délire à la Arthur et les chevaliers de la table ronde version Mad Max, juste en partant du lieu.
 
-Pour les settings futuristes, c’est différent, on y reviendra peut être sur un prochain article :)
+Pour les settings futuristes, on en parle à la fin de l'article :)
 
 ## De quoi s’inspirer ?
 
