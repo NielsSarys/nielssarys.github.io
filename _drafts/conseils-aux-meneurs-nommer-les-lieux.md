@@ -2,15 +2,17 @@
 title: 'Conseils aux Meneurs : nommer les lieux'
 desc: true
 permalink: "/:title"
-date: 2018-11-27T14:50:57+01:00
+date: 2019-08-22 18:00:57 +0200
 layout: post
-image: ''
+image: https://images.unsplash.com/photo-1543191878-2baa4ff8a570?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
 keywords: jdr, jeu de rôle, conseils aux meneurs
 tags:
 - jdr
+- conseil
+- meneur
 
 ---
-Voici un premier article sur l'animation de parties de jeu de rôle. Aujourd'hui, j'aimerais vous parler des lieux et vous partager mes astuces pour les nommer.
+Voici un **premier article sur l'animation de parties de jeu de rôle**. Aujourd'hui, j'aimerais vous parler des lieux et vous partager mes astuces pour les nommer.
 
 Trouver un nom pour un lieu est toujours une chose compliquée. Son nom doit être **évocateur**, **original** et **cohérent** avec l'aire linguistique/culture dans laquelle il se trouve. Il doit également **servir la narration**. Si une ville s’appelle Pont-des-Rois, cela induit beaucoup de questions : _Quel évènement important a eu lieu sur ce pont ? Qui sont ces rois dont parlent les légendes ? Si le pont est brisé, qu’est ce qui a provoqué son effondrement ? Quelles ont été les conséquences de cet effondrement ? La séparation de deux pays ? La fin d’une importante route commerciale ? Une grande famine ?_
 
@@ -97,3 +99,5 @@ Les noms peuvent aussi être basés sur une denrée, une technologie, une indust
 * Une ville cyberpunk : Neon City
 
 **Pour en savoir plus**, allez faire un tour sur la page Wikipédia de la [toponymie française](https://fr.wikipedia.org/wiki/Toponymie_fran%C3%A7aise#M%C3%A9tiers,_industries), ça donne plein d’idées ;D
+
+_Photo du header by_ [Jakob Braun](https://unsplash.com/@jakobustrop)
