@@ -2,7 +2,7 @@
 title: 'Conseils aux Meneurs : nommer les lieux'
 desc: true
 permalink: "/:title"
-date: 2019-08-22 18:00:57 +0200
+date: 2019-08-24 13:00:57 +0200
 layout: post
 image: https://images.unsplash.com/photo-1543191878-2baa4ff8a570?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
 keywords: jdr, jeu de rôle, conseils aux meneurs
