@@ -4,7 +4,7 @@ desc: true
 permalink: "/:title"
 date: 2018-11-14 02:00:00 +0100
 layout: post
-image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/9d432029-9702-4b30-ae26-1aba9d0ff2fa/dotv0k-a259c3bc-2a6b-4500-8f2b-930a282fb4c2.jpg
+image: http://www.abbayedefontenay.com/cache/advportfoliopro/xl_cloitre6_jpg_c4ef60752d8a53aae406d8ba92ff66e0.jpg
 keywords: dungeon world, jdr, compte-rendu, jeu de rôle
 tags:
 - cr
