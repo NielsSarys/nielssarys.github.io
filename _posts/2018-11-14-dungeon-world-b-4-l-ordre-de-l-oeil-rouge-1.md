@@ -45,4 +45,4 @@ Le nuage de poussière retombe. Anastasia et Accacius se jettent sur les débris
 
 A suivre...
 
-_Illustration du header by bongoshock_
+_Illustration du header :_ [_Abbaye de Fontenay_](http://www.abbayedefontenay.com/)
