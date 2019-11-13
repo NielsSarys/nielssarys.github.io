@@ -39,4 +39,4 @@ Lion sort du sous-bois, un gobelin ficelé sur l’épaule. Il l’accroche à u
 
 Lion, suivi par ses acolytes, fait irruption dans la demeure de Gwent. Le bourgmestre demande à ses hommes et à ses proches de les laisser. Après leur avoir servi une grande chope de cervoise fraîche, Lion lui expose la situation. Il faudra plus que quelques hommes. Ils ont besoin d’une armée ! Mais la capitale est bien trop loin. Cartus et Accacius se rendront au campement de l’Ordre d’Othan, près du monastère. Lion et Anastasia ne veulent pas avoir affaire avec l’Ordre, ils se rendront donc à Port-Azur.
 
-_Illustration du header by bongoshock_
+_Illustration du header by_ [_Andrew Coelho_](https://unsplash.com/@andrewcoelho)
