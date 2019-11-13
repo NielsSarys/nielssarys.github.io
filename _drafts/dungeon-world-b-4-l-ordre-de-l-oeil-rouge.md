@@ -2,7 +2,7 @@
 title: 'Dungeon World [B-7] : un danger approche'
 desc: true
 permalink: "/:title"
-date: 2018-11-14 02:00:00 +0100
+date: 2019-11-13 13:00:00 +0100
 layout: post
 image: https://images.unsplash.com/photo-1488330890490-c291ecf62571?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
 keywords: dungeon world, jdr, compte-rendu, jeu de rôle
