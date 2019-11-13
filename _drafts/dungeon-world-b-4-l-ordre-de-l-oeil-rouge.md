@@ -11,7 +11,7 @@ tags:
 - jdr
 
 ---
-Nos héros ont quitté Keshira et arrivent à Port-Azur ! **Bettravia la voleuse** (Laul) doit nous laisser pour quelques temps mais **Cartus** **le cambrioleur halfelin** (Jo) ne tardera pas à rencontrer nos chers aventuriers, **Lion l’éclaireur** (Dono), **Accacius le mage** (Mich) et **Anastasia la barbare** (Zaël). Fraîchement débarqué à _Port-Azur_, ils seront pris à parti par d'étranges chasseurs de mage... Bonne lecture :)
+Une embuscade gobeline et un incendie a poussé nos amis vers San Paulina, un village de bûcherons. **Lion l’éclaireur** (Dono), **Accacius le mage** (Mich) et **Anastasia la barbare** (Zaël) attendent le réveil de leur compagnon d'infortune, **Cartus** **le cambrioleur halfelin** (Jo). Recueillis par la doyenne, ils se remettent de leurs émotions. Mais au nord, un danger bien plus grand se prépare... Bonne lecture :)
 
 ## Un réveil difficile
 
