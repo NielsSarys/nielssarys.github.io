@@ -43,8 +43,8 @@ fields:
   hidden: false
   default: "/:title"
 pages:
-- _posts/dungeon-world-b-4-l-ordre-de-l-oeil-rouge.md
 - _posts/2018-11-14-dungeon-world-b-4-l-ordre-de-l-oeil-rouge-1.md
+- _posts/dungeon-world-b-4-l-ordre-de-l-oeil-rouge.md
 - _posts/2019-08-24-conseils-aux-meneurs-nommer-les-lieux.md
 - _posts/apocalypse-world-kingsroad-épisode-3.md
 - _posts/apocalypse-world-kingsroad-épisode-2.md

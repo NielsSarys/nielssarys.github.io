@@ -2,7 +2,7 @@
 title: 'Dungeon World [B-5] : la chose dans le monastère'
 desc: true
 permalink: "/:title"
-date: 2018-11-14 02:00:00 +0100
+date: 2019-11-12 21:00:00 +0100
 layout: post
 image: http://www.abbayedefontenay.com/cache/advportfoliopro/xl_cloitre6_jpg_c4ef60752d8a53aae406d8ba92ff66e0.jpg
 keywords: dungeon world, jdr, compte-rendu, jeu de rôle
