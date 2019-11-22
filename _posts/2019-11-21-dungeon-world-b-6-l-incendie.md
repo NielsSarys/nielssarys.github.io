@@ -11,7 +11,7 @@ tags:
 - jdr
 
 ---
-Une embuscade gobeline et un incendie a poussé nos amis vers San Paulina, un village de bûcherons. **Lion l’éclaireur** (Dono), **Accacius le mage** (Mich) et **Anastasia la barbare** (Zaël) attendent le réveil de leur compagnon d'infortune, **Cartus** **le cambrioleur halfelin** (Jo). Recueillis par la doyenne, ils se remettent de leurs émotions. Mais au nord, un danger bien plus grand se prépare... Bonne lecture :)
+**Lion l’éclaireur** (Dono), **Accacius le mage** (Mich), **Anastasia la barbare** (Zaël) et **Cartus** **le cambrioleur halfelin** (Jo) ont été découvert par l'Ordre d'Othan à proximité du monastère de San Paulina. Comment nos quatre aventuriers vont-ils se sortir de cette mauvaise rencontre ? Bonne lecture :)
 
 ## L'ordre zélé
 
