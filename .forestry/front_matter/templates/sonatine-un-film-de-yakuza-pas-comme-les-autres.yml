@@ -43,6 +43,7 @@ fields:
   hidden: false
   default: "/:title"
 pages:
+- _posts/apocalypse-world-kingsroad-épisode-4.md
 - _posts/2019-11-21-dungeon-world-b-6-l-incendie.md
 - _posts/2019-11-13-dungeon-world-b-7-un-danger-approche.md
 - _posts/dungeon-world-b-5-la-chose-dans-le-monastère.md
