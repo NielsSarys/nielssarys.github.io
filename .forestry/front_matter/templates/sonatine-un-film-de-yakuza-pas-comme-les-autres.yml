@@ -43,14 +43,15 @@ fields:
   hidden: false
   default: "/:title"
 pages:
-- _posts/2019-11-26-apocalypse-world-kingsroad-épisode-4.md
-- _posts/2019-11-21-dungeon-world-b-6-l-incendie.md
-- _posts/2019-11-13-dungeon-world-b-7-un-danger-approche.md
-- _posts/dungeon-world-b-5-la-chose-dans-le-monastère.md
-- _posts/2019-08-24-conseils-aux-meneurs-nommer-les-lieux.md
-- _posts/apocalypse-world-kingsroad-épisode-3.md
-- _posts/apocalypse-world-kingsroad-épisode-2.md
-- _posts/2018-11-14-dungeon-world-l-ordre-de-l-oeil-rouge.md
-- _posts/apocalypse-world-kingsroad-épisode-1.md
-- _posts/2018-10-23-dungeon-world-départ-précipité.md
 - _posts/2018-09-04-dungeon-world-job-delicat-a-keshira.md
+- _posts/2018-10-23-dungeon-world-départ-précipité.md
+- _posts/2018-11-14-dungeon-world-l-ordre-de-l-oeil-rouge.md
+- _posts/2019-08-24-conseils-aux-meneurs-nommer-les-lieux.md
+- _posts/2019-11-13-dungeon-world-b-7-un-danger-approche.md
+- _posts/2019-11-21-dungeon-world-b-6-l-incendie.md
+- _posts/2019-11-26-apocalypse-world-kingsroad-épisode-4.md
+- _posts/apocalypse-world-kingsroad-épisode-1.md
+- _posts/apocalypse-world-kingsroad-épisode-2.md
+- _posts/apocalypse-world-kingsroad-épisode-3.md
+- _posts/dungeon-world-b-5-la-chose-dans-le-monastère.md
+- _posts/dungeon-world-c-1-dans-la-brume.md
