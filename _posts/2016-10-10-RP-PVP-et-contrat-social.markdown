@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "RP, PVP et contrat social"
-date: 2016-10-10 15:32:20
-tags: [article, gamestudies]
-image: "http://miscreatedgame.com/wp-content/uploads/2016/12/update44.jpg"
-keywords: "jeu video, game studies, contrat social"
+title: RP, PVP et contrat social
+date: 2016-10-10T15:32:20.000+00:00
+tags:
+- article
+- gamestudies
+image: "/src/ss_ab7426f72129c8815911743ba8ce1fe90b4539b0.1920x1080.jpg"
+keywords: jeu video, game studies, contrat social
 desc: true
-permalink: /:title
----
+permalink: "/:title"
 
+---
 Aujourd'hui on va parler d'un problème que je rencontre assez régulièrement, notamment sur les jeux massivement multijoueur. Petite mise en contexte : mon ami Nighdor et moi-même étions en train de jouer à [Miscreated](http://store.steampowered.com/app/299740/?l=french), petit jeu de survie en milieu zombie fort sympathique. Voilà bien 20 minutes que nous crapahutons à travers la carte à la recherche de survivants. Soudain, un autre joueur, armé jusqu'au dent, surgit de derrière une maison.
 > **NIELS** : Ah, y'a un mec !
 
