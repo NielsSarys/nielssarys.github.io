@@ -11,7 +11,7 @@ tags:
 - jdr
 
 ---
-Voici le début d'une nouvelle campagne de Dungeon World (toujours plus !) : on y retrouve **Sicario** (Romain) le chasseur de monstre, **Aerith** (Nico) l'espionne elfe, **Richter** (Clément) le barde et **Siri** (Kevin) l'éclaireuse elfe accompagné de son fidèle loup, **Moro**. Bonne lecture :)
+Voici le début d'une nouvelle campagne de Dungeon World (toujours plus !) : on y retrouve **Sicario** (Romain) le chasseur de monstre, **Aerith** (Nico) l'espionne elfe, **Richter** (Clément) le barde et **Siri** (Kevin) l'éclaireuse elfe accompagnée de son fidèle loup, **Moro**. Bonne lecture :)
 
 ## Purée de pois
 
