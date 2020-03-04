@@ -13,8 +13,6 @@ tags:
 ---
 La menace gobeline rôde aux portes du comté de Biaggio.  **Lion l’éclaireur** (Dono), **Accacius le mage** (Mich) et **Anastasia la barbare** (Zaël) et **Cartus** **le cambrioleur halfelin** (Jo) doivent à tout prix trouver de l'aide ou la région risque d'être mise à sac !
 
-**nb : les** 🔥 **représentent un changement de scène, pour vous aider à suivre**
-
 ## Qui veut la paix
 
 Le village de San Paulina s’active. Les plus solides des troncs sont dressés pour former une barricade. Les rares miliciens forment toutes hommes et femmes capables de tenir une arme. Les haches des bûcherons sont réquisitionnées pour aiguisage ; elles feront de bonnes armes. Nos héros apparaissent sur le perron de la maison du bourgmestre. Gwent, leur hôte, fait amené des chevaux frais : “Voici Rathran, Ralawi, Tonnerre et Predator, nos meilleurs chevaux. Puissent-ils vous aider dans votre quête…”. Gwent, une chape de plomb sur le dos, retourne dans sa tanière.
