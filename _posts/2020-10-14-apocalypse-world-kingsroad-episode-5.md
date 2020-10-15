@@ -71,7 +71,7 @@ Roméo pousse un “yaah” comme s’il chevauchait une bête. Les quatre motar
 
 Thales compile de vieux bouquins, tentant de reconstituer un semblant de bibliothèque entre deux corvées. Un coup contre la porte interrompt ses songes. C’est Damasio. Le disciple lui chuchote à l’oreille : Mika est mort. Thales attrape son chapeau et s’engouffre dans le couloir en boitant. Mais une silhouette bloque le chemin. C’est Miguel, le type qui s’occupe de la cantine. Cette boule de nerfs sur pattes refuse de servir les Philosophes ; ces “tarés” comme il les appelle. Crochet à la main, il interpelle Thales : “Toi, le gourou de mes deux ! Un de tes gars à voler mes produits ! Je vais te fendre en deux”.
 
-Dans un recoin du couloir, Hutt caresse son canon scié. Les badauds s’approchent. Isaac apparaît derrière le cuisto. Posant une main sur son épaule, il parvient à calmer le jeu : “Écoute, ce ne sont pas mes gars qui t’ont volé. Mais je vais trouver le coupable” - “T’as intérêt, sinon je bute le prophète”.
+Dans un recoin du couloir, Hutt caresse son canon scié. Les badauds s’approchent. Isaac apparaît derrière le cuisto. Posant une main sur son épaule, il parvient à calmer le jeu : “Écoute, ce ne sont pas ses gars qui t’ont volé. Mais je vais trouver le coupable” - “T’as intérêt, sinon je bute le prophète”.
 
 Le cuisinier s’éloigne en grognant.
 
